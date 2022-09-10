@@ -24,7 +24,6 @@ public class Yard {
     public void setWidth(int width) {
         this.width = width;
     }
-
     public int getHeight() {
         return height;
     }
@@ -32,7 +31,6 @@ public class Yard {
     public void setHeight(int height) {
         this.height = height;
     }
-
     public String getColor() {
         return color;
     }

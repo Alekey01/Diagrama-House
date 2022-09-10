@@ -1,3 +1,3 @@
 public enum BedSize {
-    indivual,matrimonial,queen,king;
+    individual,matrimonial,queen,king;
 }

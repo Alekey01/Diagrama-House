@@ -6,7 +6,6 @@ public class RestRoom {
    private String color;
 
     public RestRoom(){
-
     }
 
     public boolean isShowerCabin() {
